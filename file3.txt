@@ -1,4 +1,8 @@
 file 3-git pratcitce file 3
+<<<<<<< HEAD
 
 this line is adding after bugfix line was added through bugfix branch
+=======
+adding this line when i am in bugfix branch
+>>>>>>> bugfix
 
