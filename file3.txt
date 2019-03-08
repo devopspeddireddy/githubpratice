@@ -1,1 +1,4 @@
 file 3-git pratcitce file 3
+
+this line is adding after bugfix line was added through bugfix branch
+
